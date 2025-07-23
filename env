@@ -1,0 +1,17 @@
+CI_ENVIRONMENT = development
+
+app.baseURL = 'http://localhost:8080/'
+
+# MySQL ayarları
+database.default.hostname = mysql
+database.default.database = cisoft
+database.default.username = cisoft
+database.default.password = cisoft
+database.default.DBDriver = MySQLi
+database.default.port = 3306
+
+encryption.key = 'base64:ZGV2X2tleV9jaXNvZnRfYXBpX2tleQ=='
+
+# Redis session ayarları
+session.driver = 'CodeIgniter\\Session\\Handlers\\RedisHandler'
+session.savePath = 'tcp://redis:6379'
