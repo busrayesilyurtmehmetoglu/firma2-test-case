@@ -1,4 +1,4 @@
-# Cisoft Microservice API
+# Microservice API
 
 Kurumsal, sürdürülebilir, production-ready bir mikroservis API örneği.
 
@@ -16,7 +16,7 @@ Kurumsal, sürdürülebilir, production-ready bir mikroservis API örneği.
 
 ### 1. Klonla
 ```sh
-git clone <repo-url> && cd cisoft
+git clone <repo-url> && cd firma2-test-case
 ```
 
 ### 2. Ortamı Başlat

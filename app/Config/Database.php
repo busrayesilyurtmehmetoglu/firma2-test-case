@@ -27,9 +27,9 @@ class Database extends Config
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'mysql',
-        'username'     => 'cisoft',
-        'password'     => 'cisoft',
-        'database'     => 'cisoft',
+        'username'     => 'app',
+        'password'     => 'app',
+        'database'     => 'app',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,

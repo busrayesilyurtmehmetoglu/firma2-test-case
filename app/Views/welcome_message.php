@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Cisoft Microservice API</title>
+    <title>Microservice API</title>
     <style>
         body { font-family: Arial, sans-serif; background: #f8f9fa; color: #222; margin: 0; padding: 0; }
         .container { max-width: 700px; margin: 60px auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 8px #0001; padding: 40px; }
@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container">
-    <h1>Cisoft Microservice API</h1>
+    <h1>Microservice API</h1>
     <p class="success">API başarıyla çalışıyor! 🎉</p>
     <p>Bu proje, kurumsal ve sürdürülebilir bir mikroservis API örneğidir.</p>
     <ul>

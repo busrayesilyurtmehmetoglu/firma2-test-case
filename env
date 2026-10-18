@@ -4,9 +4,9 @@ app.baseURL = 'http://localhost:8080/'
 
 # MySQL ayarları
 database.default.hostname = mysql
-database.default.database = cisoft
-database.default.username = cisoft
-database.default.password = cisoft
+database.default.database = app
+database.default.username = app
+database.default.password = app
 database.default.DBDriver = MySQLi
 database.default.port = 3306
 
